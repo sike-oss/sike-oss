@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sike-oss/sike-oss/blob/main/hellobanner.png" alt="Imran Arif Munge Banner" width="100%" />
+  <img src="https://github.com/sike-oss/sike-oss/blob/main/banner1.png" alt="Imran Arif Munge Banner" width="100%" />
 </div>
 
 <h1 align="center">
@@ -127,9 +127,7 @@ class ImranArif:
   <img src="https://streak-stats.demolab.com/?user=sike-oss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sike-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophy" />
-</div>
+
 
 ---
 
