@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sike-oss/sike-oss/main/banner.png" alt="Imran Arif Munge Banner" width="100%" />
+  <img src="https://github.com/sike-oss/sike-oss/blob/main/hellobanner.png" alt="Imran Arif Munge Banner" width="100%" />
 </div>
 
 <h1 align="center">
