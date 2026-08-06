@@ -25,6 +25,20 @@
   <img src="https://komarev.com/ghpvc/?username=sike-oss&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Based%20in-India-orange?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Full%20Stack-blueviolet?style=for-the-badge" alt="Focus" />
+</p>
+
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#current-projects">Projects</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#github-stats">Stats</a> •
+  <a href="#lets-connect">Connect</a>
+</p>
+
 ---
 
 ## ABOUT ME
@@ -45,19 +59,41 @@ class ImranArif:
         return "Open to exciting projects — let's build something great!"
 ```
 
+<table>
+  <tr>
+    <td width="33%" align="center">
+       <b>Building</b><br/>AI-powered products that solve real, tangible problems
+    </td>
+    <td width="33%" align="center">
+       <b>Sharpening</b><br/>AI/ML for audio forensics & scalable cloud systems
+    </td>
+    <td width="33%" align="center">
+       <b>Off the field</b><br/>District & State-level footballer at heart
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## CURRENT PROJECTS
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">PhonoForensic</h3>
+    <td width="50%" valign="top">
+      <h3 align="center"> PhonoForensic</h3>
       <p align="center">Real-Time Synthetic Voice Detection & Automated FIR Filing. Leveraging advanced AI/ML models to identify deepfakes and streamline legal processes.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Audio%20AI-blue?style=flat-square" />
+      </p>
     </td>
-    <td width="50%">
-      <h3 align="center">Nexus-Homes</h3>
+    <td width="50%" valign="top">
+      <h3 align="center"> Nexus-Homes</h3>
       <p align="center">A modern real estate platform. Looking for collaborators to help scale user reach and brand awareness.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Scaling-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Looking%20for-Collaborators-brightgreen?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
@@ -118,26 +154,38 @@ class ImranArif:
 ## GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sike-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imran-Munge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sike-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imran-Munge&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sike-oss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Imran-Munge&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-
 
 ---
 
 ## CONTRIBUTION GRAPH
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sike-oss&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imran-Munge&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
+
+## LET'S CONNECT
+
+<p align="center">
+  <a href="https://imran-munge-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:insha20munge@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/sike_imran" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 <div align="center">
   <i>"I bring the same athlete's hustle from the pitch to the terminal — building fast and playing to win."</i>
